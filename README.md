@@ -32,7 +32,7 @@ We did want to explore the data in regards to wealth and how that relates to the
 
 Figure 1
 
-![](RackMultipart20200718-4-rql5i3_html_59c18f89dc0d714a.jpg)
+![](images/1.png)
 
 **Analysis**
 
@@ -40,7 +40,7 @@ In our Analysis we looked at Degree Centrality, Closeness Centrality, and Betwee
 
 Figure 2
 
-![](RackMultipart20200718-4-rql5i3_html_18a4149f329bf0f4.png)
+![](images/2.png)
 
 **Degree Centrality**
 
@@ -50,15 +50,15 @@ As seen below, the distribution of the degree centralities does not match areas 
 
 Figure 3
 
-![](RackMultipart20200718-4-rql5i3_html_c180be63583ff15c.png)
+![](images/3.png)
 
 Figure 4
 
-![](RackMultipart20200718-4-rql5i3_html_89e4aed8d14840ff.png)
+![](images/4.png)
 
 Figure 5
 
-![](RackMultipart20200718-4-rql5i3_html_8ebd2b9c4d878b91.png)
+![](images/5.png)
 
 **Closeness Centrality**
 
@@ -68,15 +68,15 @@ As seen below, the distribution of the closeness centralities does not match are
 
 Figure 6
 
-![](RackMultipart20200718-4-rql5i3_html_10aada8548db0801.png)
+![](images/6.png)
 
 Figure 7
 
-![](RackMultipart20200718-4-rql5i3_html_1457b5b577f20d9f.png)
+![](images/7.png)
 
 Figure 8
 
-![](RackMultipart20200718-4-rql5i3_html_b68dc02dccef6b29.png)
+![](images/8.png)
 
 **Betweenness Centrality**
 
@@ -86,15 +86,15 @@ As seen below, the distribution of the betweenness centralities do not match are
 
 Figure 9
 
-![](RackMultipart20200718-4-rql5i3_html_3b0b6b0c2ea747f3.png)
+![](images/9.png)
 
 Figure 10
 
-![](RackMultipart20200718-4-rql5i3_html_da4a92ba4ed46b77.png)
+![](images/10.png)
 
 Figure 11
 
-![](RackMultipart20200718-4-rql5i3_html_7223a803d2b4d5b3.png)
+![](images/11.png)
 
 **Conclusions**
 
