@@ -1,6 +1,6 @@
 # Estimating New York City&#39;s Population through Network Manipulations of the Subway System
 
-Bailey, Jordan &amp; Didwania, Aneesh
+Bailey, Jordan &amp; D., Aneesh
 
 **Abstract**
 
